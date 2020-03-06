@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| March 5   | https://github.com/nyu-ossd-s20/project-evaluation/pull/46  | evaluation_template.md  |   I fixed the capitalization in the "Devopment Enviornment Installation" section of the evaluation |
 |     |     |     |      |
 |     |     |     |      |
